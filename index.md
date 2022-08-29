@@ -1,6 +1,9 @@
 # Anjali's First CS193 Homework
+
 -This class does not have any exams 
+
 -This class will help me learn more about terminal 
+
 -This class will help me throughout my CS Degree
 
 ## Welcome to GitHub Pages
